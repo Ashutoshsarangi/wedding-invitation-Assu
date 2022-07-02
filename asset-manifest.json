@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wedding-invitation-Assu/static/css/main.6635b336.css",
+    "main.js": "/wedding-invitation-Assu/static/js/main.f399d1c8.js",
+    "static/js/787.f1d64ec6.chunk.js": "/wedding-invitation-Assu/static/js/787.f1d64ec6.chunk.js",
+    "static/media/Magical rustic floral - Baby Shower Invitation Template _ Greetings Island.jfif": "/wedding-invitation-Assu/static/media/Magical rustic floral - Baby Shower Invitation Template _ Greetings Island.04d8cc627ec816e00985.jfif",
+    "index.html": "/wedding-invitation-Assu/index.html",
+    "main.6635b336.css.map": "/wedding-invitation-Assu/static/css/main.6635b336.css.map",
+    "main.f399d1c8.js.map": "/wedding-invitation-Assu/static/js/main.f399d1c8.js.map",
+    "787.f1d64ec6.chunk.js.map": "/wedding-invitation-Assu/static/js/787.f1d64ec6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6635b336.css",
+    "static/js/main.f399d1c8.js"
+  ]
+}
