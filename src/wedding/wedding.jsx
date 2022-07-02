@@ -12,7 +12,7 @@ const Wedding = (e)=>{
     }
     return (
         <div className='wedding-container'>
-            <select className='lang-container' onChange={(e) => changelanguage(e)}>
+            <select className='lang-container' onChange={(e) => changelanguage(e)} defaultValue='en'>
                 <option value='na'>Select Your Preferred Language</option>
                 <option value='en'>English</option>
                 <option value='hindi'>Hindi</option>
