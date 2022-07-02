@@ -1,19 +1,29 @@
 {
   "name": "weddinginvitation",
   "version": "0.1.0",
+  "homepage": "https://Ashutoshsarangi.github.io/wedding-invitation-Assu",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^4.0.0",
+    "i18next": "^21.8.11",
+    "moment": "^2.29.3",
+    "node-sass": "^7.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-i18next": "^11.17.4",
+    "react-icons": "^4.4.0",
+    "react-moment": "^1.1.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

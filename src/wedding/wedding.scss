@@ -1,0 +1,47 @@
+.wedding-container{
+    background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/coc-background.jpg');
+    //background-image: url('./images/WhatsApp\ Image\ 2022-07-02\ at\ 6.18.29\ PM.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+
+    .inner-container{
+        background-image: url('./images/Magical\ rustic\ floral\ -\ Baby\ Shower\ Invitation\ Template\ _\ Greetings\ Island.jfif');
+        height: 500px;
+        background-size: cover;
+        width: 350px;
+        box-shadow: 2px 5px 20px 9px;
+        border-radius: 15px;
+
+        .content{
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+            margin-top: 33%;
+            color: #c5b9b3;
+            // background-image: url('./images/WhatsApp\ Image\ 2022-07-02\ at\ 6.18.29\ PM.jpeg');
+
+            .title{
+                margin-bottom: 0;
+            }
+            .special{
+                margin-top: 5px;
+            }
+        }
+    }
+
+    .lang-container{
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        padding: 7px;
+        text-align: center;
+        background-color: #38261a;
+        color: #ffffff;
+        font-size: 1rem;
+    }
+}
